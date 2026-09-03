@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, its Nahid-Nur here 
+### Hi, its Nahid-Nur here 
 #### I am a vibe coder and AI Automation Expert
 ![I am a vibe coder and AI Automation Expert](https://img.sanishtech.com/u/819f6184714941102eb3efbbd0e45172.jpeg)
 
