@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, Hi, its Nahid-Nur here 
+#### I am a vibe coder and AI Automation Expert
+![I am a vibe coder and AI Automation Expert](https://img.sanishtech.com/u/819f6184714941102eb3efbbd0e45172.jpeg)
 
-<!--
-**Nahid-Nur/Nahid-Nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ AI Automation Expert | Vibe Coder | n8n Automator
 
-Here are some ideas to get you started:
+I build smart, automated, and AI-powered solutions that turn ideas into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Vibe Coding — Rapidly building websites, apps & AI tools with modern AI-assisted development
+🔹 n8n Automation — Designing powerful workflows, AI agents & business process automation
+🔹 AI Agents — Building intelligent agents for real-world tasks and business workflows
+🔹 Social Media Automation — Facebook, Instagram, WhatsApp & Telegram
+🔹 API Integration — Connecting AI, SaaS platforms, databases & third-party services
+
+ My goal is simple: Automate repetitive work, build faster, and turn ideas into scalable digital solutions.
+
+Always learning. Always building. Always automating.
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on ai automations and vibe coding 
+- 🌱 I’m currently learning advance programming  
+- 📫 How to reach me: phone: 01773486415 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/Nur )  
+
